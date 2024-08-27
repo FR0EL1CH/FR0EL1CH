@@ -1,3 +1,7 @@
+<div align="center">
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
+</div>
+  
 <p align="center">
   <img src="https://github.com/FR0EL1CH/FR0EL1CH/raw/main/assets/6f5c58cbdb45d470fb21054337bbe0a4.gif" alt="gif">
 </p>
